@@ -1,2 +1,2 @@
 # Group Project
-Lại có dòng lỗi mới.
+Nội dung đã sửa đúng.
